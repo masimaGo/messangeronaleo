@@ -11,3 +11,5 @@ Within the 'test.aleo' program, you'll find a meticulously organized code struct
 - `transition hi`: The 'hi' transition is the heart of AleoChat, allowing users to send messages. It constructs a new 'Message' record, setting the sender's address as the owner and including the provided message. The transition then returns the created message to the user.
 
 - `finalize hi`: This finalize function ensures that the sent messages are securely recorded within the DApp. It associates the sender's address with the sent message in a private and confidential manner.
+
+masimabgo - ds
